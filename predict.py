@@ -10,6 +10,7 @@ import torch
 import random
 import os
 import numpy as np
+from featurizer import featurizer
 
 class Tester(object):
     def __init__(self, model,device):
@@ -79,7 +80,7 @@ if __name__ == "__main__":
         device = torch.device('cpu')
         print('The code uses CPU!!!')
 
-    model = torch.load('TransformerCPI2.0.pt')  # Load trained model
+    model = torch.load('Virtual Screening.pt')  # Load trained model
     model.to(device)
     sequence = "MPHSSLHPSIPCPRGHGAQKAALVLLSACLVTLWGLGEPPEHTLRYLVLHLA" # Example protein sequence
     smiles = "CS(=O)(C1=NN=C(S1)CN2C3CCC2C=C(C4=CC=CC=C4)C3)=O" # Example compound
