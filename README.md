@@ -7,5 +7,5 @@
 `predict.py` makes inference.
 
 ## Trained models
-Will be released in the future.
+Pretrained model will be available at https://drive.google.com/drive/folders/1X7i1eO-EykCQcvqMeWeB7QXT3E9eLG08?usp=sharing. Pretrained model will be released after the article is accepted or another time in the future.
 
