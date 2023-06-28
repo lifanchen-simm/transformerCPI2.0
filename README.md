@@ -9,7 +9,7 @@
 `predict.py` makes the inference, the input are protein sequence and compound SMILES. `featurizer.py` tokenizes and encodes the protein sequence and compounds. `mutation_analysis.py` conducts drug mutation analysis to predict binding sites. `substitution_analysis.py` conducts substitution analysis.
 
 ## Trained models
-Trained models will be available at https://drive.google.com/drive/folders/1X7i1eO-EykCQcvqMeWeB7QXT3E9eLG08?usp=sharing. Trained models may be released after the article is accepted or an appropriate time in the future (usage need permission).
+Trained models is now available freely at https://drive.google.com/drive/folders/1X7i1eO-EykCQcvqMeWeB7QXT3E9eLG08?usp=sharing. The current open source version only aims to reproduce the results reported in the article, so the inference speed is strictly limited.
 
 ## Requirements
 python = 3.8.8 
