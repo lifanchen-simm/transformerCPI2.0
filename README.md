@@ -1,6 +1,6 @@
 # TransfomerCPI2.0
 
-  We only disclose the inference models. TransformerCPI2.0 is based on TransformerCPI whose codes are all released. The details of TransformerCPI2.0 are described in our paper https://www.biorxiv.org/content/10.1101/2022.03.26.485909v4 which is now accepted by Nature communications. Trained models are available at present.
+  We only disclose the inference models. TransformerCPI2.0 is based on TransformerCPI whose codes are all released. The details of TransformerCPI2.0 are described in our paper https://doi.org/10.1038/s41467-023-39856-w which is now published on Nature communications. Trained models are available at present.
 
 ## Setup and dependencies 
 `environment.yaml` is the conda environment of this project.
